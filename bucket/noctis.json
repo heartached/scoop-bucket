@@ -1,12 +1,12 @@
 {
-  "version": "1.2.3",
+  "version": "1.2.4",
   "description": "A music player that respects what's yours",
   "homepage": "https://github.com/heartached/Noctis",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/heartached/Noctis/releases/download/v1.2.3/Noctis-windows-x64.zip",
-      "hash": "05e15db1aad3e6e790e2e5a6d06903b1daf8f6f202d14a26370f4dfb6f2342bc"
+      "url": "https://github.com/heartached/Noctis/releases/download/v1.2.4/Noctis-windows-x64.zip",
+      "hash": "a6ac88f36ba1e75234e926ef90de9f54ecd2a4f2fc4f429ef5459f5806f2a679"
     }
   },
   "bin": "Noctis.exe",
